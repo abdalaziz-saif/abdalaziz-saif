@@ -12,7 +12,7 @@
 
 ## About Me:
 
-- 🎓 I `graduated` from the Faculty of Computers & AI at FCAI_CU.
+- 🎓 I `studing` at Faculty of Computers & AI Cario University.
 - 👨‍💻 I love `Machine learning`.
 - 🔭 I'm currently learning `Deep Learning`.
 - Here is <a href="*****************">MY RESUME</a>.
@@ -33,7 +33,7 @@
 </a>
 &emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
-		<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
+		<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
 </a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/abdalaziz-saifeldeen-b84479355/" target="_blank">
@@ -74,10 +74,10 @@
 <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
 <!-- <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-1C1E21.svg?logo=crewai&logoColor=white"> -->
-<!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
-<!-- <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
-<img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
-<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white"> -->
+<!-- <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
+<!-- <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white"> -->
+<!-- <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green"> -->
+<!-- <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white"> -->
 
 
 ### 💻 Software and tools
