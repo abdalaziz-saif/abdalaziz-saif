@@ -59,3 +59,12 @@
 <br>
 
 ## 🛠️ My tools
+
+
+### 👨‍💻 Programming languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,markdown" alt="Programming Languages"/>
+  </a>
+</p>
