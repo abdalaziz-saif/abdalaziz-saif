@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,markdown" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,mongodb,postgres,sqlite,fastapi,flask,prometheus" alt="Frameworks and Libraries"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,mongodb,postgres,sqlite,fastapi" alt="Frameworks and Libraries"/>
   </a>
 	&emsp;
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
@@ -84,7 +84,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,github,azure,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
+		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,clion,sublime,postman,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
 	</a>
 </p>
 
