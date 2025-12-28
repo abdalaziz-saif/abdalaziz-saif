@@ -34,15 +34,14 @@
 &emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
 		<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
-
 </a>
 	&emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
-		<img src="./images/linkedin.png" alt="Linkedin"/>
+		<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ed39a383-36ca-4542-ac13-50d85c0b3d8b" />
 	</a>
 	&emsp;
 	<a href="https://t.me/AbdalazizSaifeldeen" target="_blank">
-		<img src="./images/telegram.png" alt="Telegram"/>
+		<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0954ebf7-38d0-4f4b-8490-645d2e83920a" />
 	</a>
 
 </p>
