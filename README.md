@@ -32,7 +32,8 @@
 	</a>
 	&emsp;
 	<a href="" target="_blank">
-		<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2d785f10-3bcc-407a-8294-761b079bbee5" />
+	<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d54ff6cd-cce2-4172-a19e-34bc5a430933" />
+" />
 " alt="Github"/>
 	</a>
 	&emsp;
