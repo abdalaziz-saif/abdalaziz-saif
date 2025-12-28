@@ -30,9 +30,9 @@
 	<a href="mailto:abdazizsaif15@gmail.com" target="_blank">
 		<img src="./images/gmail.png" alt="Gmail"/>
 	</a>
-	&emsp;
-	<a href="" target="_blank">
-	<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d54ff6cd-cce2-4172-a19e-34bc5a430933" />
+&emsp;
+	<a href="https://github.com/Ad7amstein" target="_blank">
+		<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
 
 </a>
 	&emsp;
