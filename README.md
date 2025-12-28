@@ -33,9 +33,8 @@
 	&emsp;
 	<a href="" target="_blank">
 	<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d54ff6cd-cce2-4172-a19e-34bc5a430933" />
-" />
-" alt="Github"/>
-	</a>
+
+</a>
 	&emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
 		<img src="./images/linkedin.png" alt="Linkedin"/>
