@@ -86,5 +86,23 @@
 <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white"> -->
 <img alt="Google ADK" src="https://img.shields.io/badge/Google%20ADK-0A0A0A?logo=googlegemini&logoColor=#8E75B2">
 <!--     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?ogo=plotly&logoColor=white">< -->
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
+<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white"> -->
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
+
+
+### 💻 Software and tools
+
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=git,github,azure,linux,ubuntu,windows,vim,visualstudio,vscode,clion,sublime,postman,nginx,docker,obsidian,notion,stackoverflow" alt="Software and tools"/>
+	</a>
+</p>
+
+<p align="center">
+	<!-- <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white"> -->
+	<!-- <img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white"> -->
+	<!-- <img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white"> -->
+	<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
+	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
+</p>
