@@ -6,17 +6,6 @@
   <img src="*****************" alt="Typing SVG" />
 </div>
 
-<!-- Ranks -->
-<p align="center"> 
-	<img src="*****************" alt="Profile Views" />
-	&emsp;
-	<a href="*****************">
-	    <img src="*****************" alt="committers badge" width="20.40%">
-	</a>
-	&emsp;
- 	<img src="*****************" alt="GitHub Followers" />
-</p>
-
 <hr>
 
 <!-- About Me -->
@@ -43,7 +32,8 @@
 	</a>
 	&emsp;
 	<a href="" target="_blank">
-		<img src="./images/github.png" alt="Github"/>
+		<img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2d785f10-3bcc-407a-8294-761b079bbee5" />
+" alt="Github"/>
 	</a>
 	&emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
