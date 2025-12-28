@@ -28,9 +28,9 @@
 
 <p align="center">
 	<a href="mailto:abdazizsaif15@gmail.com" target="_blank">
-		<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/adb82abf-a39f-47b3-9897-4cb584b1e83c" />
+		<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/adb82abf-a39f-47b3-9897-4cb584b1e83c"  alt = "gmail" />
 
-	</a>
+</a>
 &emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
 		<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
