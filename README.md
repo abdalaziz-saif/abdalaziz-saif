@@ -27,22 +27,30 @@
 ## Contact Me
 
 <p align="center">
-	<a href="mailto:abdazizsaif15@gmail.com" target="_blank">
-		<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/adb82abf-a39f-47b3-9897-4cb584b1e83c"  alt = "gmail" />
-</a>
-&emsp;
-	<a href="https://github.com/abdalaziz-saif" target="_blank">
-		<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"  alt="Github"/>
-</a>
-	&emsp;
-	<a href="https://www.linkedin.com/in/abdalaziz-saifeldeen-b84479355/" target="_blank">
-		<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/ed39a383-36ca-4542-ac13-50d85c0b3d8b" />
-	</a>
-	&emsp;
-	<a href="https://t.me/AbdalazizSaifeldeen" target="_blank">
-		<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/0954ebf7-38d0-4f4b-8490-645d2e83920a" />
-	</a>
-
+  <table align="center" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <a href="mailto:abdazizsaif15@gmail.com">
+          <img width="60" height="60" src="https://github.com/user-attachments/assets/adb82abf-a39f-47b3-9897-4cb584b1e83c"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/abdalaziz-saif">
+          <img width="60" height="60" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/abdalaziz-saifeldeen-b84479355/">
+          <img width="60" height="60" src="https://github.com/user-attachments/assets/ed39a383-36ca-4542-ac13-50d85c0b3d8b"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://t.me/AbdalazizSaifeldeen">
+          <img width="60" height="60" src="https://github.com/user-attachments/assets/0954ebf7-38d0-4f4b-8490-645d2e83920a"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br>
