@@ -71,6 +71,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,fastapi,docker" alt="Frameworks and Libraries"/>
   </a>
+	<br>
 	&emsp;
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
