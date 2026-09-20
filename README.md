@@ -3,7 +3,7 @@
 
 <!-- Typing -->
 <div align="center">
-  <img src="*****************" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+%26+AI+Engineer;Senior+Ai+Student+At+Cairo+University" alt="Typing SVG" /></a>
 </div>
 
 <hr>
@@ -18,45 +18,46 @@
 - Here is <a href="*****************">MY RESUME</a>.
 <br>
 
-<!-- Problem solving -->
+## Explore My Work
 
-
+<div align="center">
+	<a href="https://portofolio-seven-woad-18.vercel.app/" target="_blank">
+		<img src="https://img.icons8.com/ios-filled/100/2563EB/briefcase.png" alt="Portfolio" width="60" height="60"/>
+	</a>
+	&emsp;&emsp;&emsp;
+	<a href="https://github.com/abdalaziz-saif" target="_blank">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/100/FFFFFF/resume.png">
+			<img src="https://img.icons8.com/ios-filled/100/000000/resume.png" alt="Resume" width="60" height="60"/>
+		</picture>
+	</a>
+&emsp;&emsp;&emsp;
+</div>
 
 <!-- Contact Me -->
-
 ## Contact Me
 
 <p align="center">
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <a href="mailto:abdazizsaif15@gmail.com">
-          <img width="60" height="60" src="https://github.com/user-attachments/assets/adb82abf-a39f-47b3-9897-4cb584b1e83c"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdalaziz-saif">
-          <img width="60" height="60" src="https://github.com/user-attachments/assets/f8bb3b51-8e01-4952-9fbe-5f1ede9987b5"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.linkedin.com/in/abdalaziz-saifeldeen-b84479355/">
-          <img width="60" height="60" src="https://github.com/user-attachments/assets/ed39a383-36ca-4542-ac13-50d85c0b3d8b"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/AbdalazizSaifeldeen">
-          <img width="60" height="60" src="https://github.com/user-attachments/assets/0954ebf7-38d0-4f4b-8490-645d2e83920a"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+	<a href="mailto:mailto:abdazizsaif15@gmail.com" target="_blank">
+		<img src="./images/gmail.png" alt="Gmail"/>
+	</a>
+	&emsp;
+	<a href="https://github.com/abdalaziz-saif" target="_blank">
+		<img src="./images/github.png" alt="Github"/>
+	</a>
+	&emsp;
+	<a href="https://www.linkedin.com/in/abdalaziz-saifeldeen-b84479355/" target="_blank">
+		<img src="./images/linkedin.png" alt="Linkedin"/>
+	</a>
+	&emsp;
+	<a href="https://t.me/AbdalazizSaifeldeen" target="_blank">
+		<img src="./images/telegram.png" alt="Telegram"/>
+	</a>
+	&emsp;
 </p>
+<br>  
 
-<br>
 ## 🛠️ My tools
-
-
 ### 👨‍💻 Programming languages
 
 <p align="center">
@@ -69,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,fastapi,docker" alt="Frameworks and Libraries"/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mongodb,postgres,fastapi,prometheus" alt="Frameworks and Libraries"/>
   </a>
 	<br>
 	&emsp;
@@ -91,7 +92,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,postman,obsidian,stackoverflow" alt="Software and tools"/>
+		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,postman,nginx,obsidian,stackoverflow,docker" alt="Software and tools"/>
 	</a>
 </p>
 
