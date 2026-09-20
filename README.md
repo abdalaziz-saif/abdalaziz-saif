@@ -20,19 +20,15 @@
 
 ## Explore My Work
 
-<div align="center">
+<p align="center">
 	<a href="https://portofolio-seven-woad-18.vercel.app/" target="_blank">
-		<img src="https://img.icons8.com/ios-filled/100/2563EB/briefcase.png" alt="Portfolio" width="60" height="60"/>
+		<img src="https://img.shields.io/badge/Portfolio-Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35"/>
 	</a>
-	&emsp;&emsp;&emsp;
+	&emsp;
 	<a href="https://github.com/abdalaziz-saif" target="_blank">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/100/FFFFFF/resume.png">
-			<img src="https://img.icons8.com/ios-filled/100/000000/resume.png" alt="Resume" width="60" height="60"/>
-		</picture>
+		<img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" height="35"/>
 	</a>
-&emsp;&emsp;&emsp;
-</div>
+</p>
 
 <!-- Contact Me -->
 ## Contact Me
