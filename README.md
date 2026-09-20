@@ -91,7 +91,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,clion,sublime,postman,notion,stackoverflow" alt="Software and tools"/>
+		<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,visualstudio,vscode,postman,obsidian,stackoverflow" alt="Software and tools"/>
 	</a>
 </p>
 
