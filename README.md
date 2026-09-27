@@ -15,7 +15,7 @@
 - 🎓 I `studing` at Faculty of Computers & AI Cario University.
 - 👨‍💻 I love `Machine Learning`.
 - 🔭 I'm currently learning `MLOps`.
-- Here is <a href="Abdalaziz_Saifeldeen_Resume.docx">MY RESUME</a>.
+- Here is <a href="abdalaziz_saifeldeen_resume.docx">MY RESUME</a>.
 <br>
 
 ## Explore My Work
@@ -25,7 +25,7 @@
 		<img src="https://img.shields.io/badge/Portfolio-Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35"/>
 	</a>
 	&emsp;
-	<a href="Abdalaziz_Saifeldeen_Resume.docx" target="_blank">
+	<a href="abdalaziz_saifeldeen_resume.docx" target="_blank">
 		<img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" height="35"/>
 	</a>
 </p>
