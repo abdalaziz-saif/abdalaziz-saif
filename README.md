@@ -25,7 +25,7 @@
 		<img src="https://img.shields.io/badge/Portfolio-Live%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35"/>
 	</a>
 	&emsp;
-	<a href="https://github.com/abdalaziz-saif" target="_blank">
+	<a href="Abdalaziz_Saifeldeen_Resume.docx" target="_blank">
 		<img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" height="35"/>
 	</a>
 </p>
