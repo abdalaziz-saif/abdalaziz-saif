@@ -15,7 +15,7 @@
 - 🎓 I `studing` at Faculty of Computers & AI Cario University.
 - 👨‍💻 I love `Machine Learning`.
 - 🔭 I'm currently learning `MLOps`.
-- Here is <a href="*****************">MY RESUME</a>.
+- Here is <a href="Abdalaziz_Saifeldeen_Resume.docx">MY RESUME</a>.
 <br>
 
 ## Explore My Work
